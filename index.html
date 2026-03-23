@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>TV Streaming PY</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800;900&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+  <body>
+    <div class="bg-glow bg-glow-a"></div>
+    <div class="bg-glow bg-glow-b"></div>
+
+    <header class="header">
+      <div class="brand-wrap">
+        <h1 class="brand"><span>TV</span>STREAMING PY</h1>
+        <p class="subtitle">Canales en vivo para Smart TV</p>
+      </div>
+      <div id="clock" class="clock"></div>
+    </header>
+
+    <main class="main">
+      <section class="controls" aria-label="Buscador y filtros">
+        <input id="searchInput" class="search" type="text" placeholder="Buscar canal..." />
+        <div id="categoryBar" class="category-bar"></div>
+      </section>
+
+      <section>
+        <div class="section-head">
+          <h2 id="sectionTitle">Todos los canales</h2>
+          <p id="resultCount">0 canales</p>
+        </div>
+        <div id="channelGrid" class="channel-grid" role="list"></div>
+      </section>
+    </main>
+
+    <div id="playerOverlay" class="player-overlay" aria-hidden="true">
+      <div class="player-topbar">
+        <button id="closePlayerBtn" class="btn-close" type="button">Volver</button>
+        <strong id="playingName"></strong>
+      </div>
+      <video id="player" controls autoplay playsinline></video>
+      <iframe id="playerFrame" title="Reproductor externo" allow="autoplay; fullscreen" allowfullscreen></iframe>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/hls.js@1"></script>
+    <script src="./app.js"></script>
+  </body>
+</html>
