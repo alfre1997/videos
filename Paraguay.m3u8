@@ -1,0 +1,323 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?26tv" group-title="-",26TV
+http://138.59.227.20:8000/play/a05x/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?ae" group-title="-",A&E HD
+http://138.59.227.20:8000/play/a09h/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?a24" group-title="-",A24
+http://138.59.227.20:8000/play/a05u/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?abc+tv" group-title="-",ABC TV
+http://138.59.227.20:8000/play/a0g6/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?am+sports" group-title="-",AM Sports
+http://138.59.227.20:8000/play/a061/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?amc" group-title="-",AMC
+http://138.59.227.20:8000/play/a064/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?axn" group-title="-",AXN HD
+http://138.59.227.20:8000/play/a09e/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?adult+swim" group-title="-",Adult swim HD
+http://138.59.227.20:8000/play/a08d/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?albirroja+tv" group-title="-",Albirroja Tv
+http://138.59.227.20:8000/play/a0dx/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?america+tv" group-title="-",America TV HD
+http://138.59.227.20:8000/play/a094/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?azteca+deportes" group-title="-",Azteca Deportes
+http://138.59.227.20:8000/play/a0h0/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?baby+tv" group-title="-",Baby TV
+http://138.59.227.20:8000/play/a06j/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?bruno+masi+tv" group-title="-",Bruno Masi Tv
+http://138.59.227.20:8000/play/a0gg/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?c5n" group-title="-",C5N
+http://138.59.227.20:8000/play/a05v/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?c9n+digital" group-title="-",C9N Digital
+http://138.59.227.20:8000/play/a0e6/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?c9n" group-title="-",C9N HD
+http://138.59.227.20:8000/play/a0fy/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?camara+camboriu" group-title="-",CAMARA Camboriu
+http://138.59.227.20:8000/play/a0fw/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?cnn+en+espaaeol" group-title="-",CNN en EspaÃ¦ol
+http://138.59.227.20:8000/play/a093/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?cadena+master+tv" group-title="-",Cadena Master Tv
+http://138.59.227.20:8000/play/a0ez/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?cambyreta+tv" group-title="-",Cambyreta Tv
+http://138.59.227.20:8000/play/a0gd/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?canal+8+villarrica" group-title="-",Canal 8 Villarrica
+http://138.59.227.20:8000/play/a0fu/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?canal+extra" group-title="-",Canal Extra
+http://138.59.227.20:8000/play/a0g9/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?canal+a" group-title="-",Canal a
+http://138.59.227.20:8000/play/a06d/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?canal+de+la+ciudad" group-title="-",Canal de la Ciudad
+http://138.59.227.20:8000/play/a07c/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?cartoon+network" group-title="-",Cartoon Network HD
+http://138.59.227.20:8000/play/a083/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?cinear" group-title="-",Cine.AR
+http://138.59.227.20:8000/play/a069/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?cinecanal" group-title="-",Cinecanal HD
+http://138.59.227.20:8000/play/a089/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?cinemax" group-title="-",Cinemax
+http://138.59.227.20:8000/play/a08r/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?comedy+central" group-title="-",Comedy Central HD
+http://138.59.227.20:8000/play/a072/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?cosmos" group-title="-",Cosmos HD
+http://138.59.227.20:8000/play/a0ek/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?crnica" group-title="-",CrÃ°nica
+http://138.59.227.20:8000/play/a05w/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?deportv" group-title="-",DeporTV
+http://138.59.227.20:8000/play/a07f/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?directv+sports" group-title="-",DirecTv Sports
+http://138.59.227.20:8000/play/a0ft/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?discovery+channel" group-title="-",Discovery Channel HD
+http://138.59.227.20:8000/play/a08g/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?discovery+hh" group-title="-",Discovery H&H HD
+http://138.59.227.20:8000/play/a08f/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?discovery+kids" group-title="-",Discovery Kids
+http://138.59.227.20:8000/play/a07r/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?discovery+science" group-title="-",Discovery Science
+http://138.59.227.20:8000/play/a06p/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?discovery+theater" group-title="-",Discovery Theater HD
+http://138.59.227.20:8000/play/a074/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?discovery+turbo" group-title="-",Discovery Turbo
+http://138.59.227.20:8000/play/a062/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?discovery+world" group-title="-",Discovery World HD
+http://138.59.227.20:8000/play/a076/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?disney+channel" group-title="-",Disney Channel HD
+http://138.59.227.20:8000/play/a06w/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?disney+junior" group-title="-",Disney Junior
+http://138.59.227.20:8000/play/a08x/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?e+entertainment" group-title="-",E! Entertainment
+http://138.59.227.20:8000/play/a08z/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?e40+digital" group-title="-",E40 DIGITAL
+http://138.59.227.20:8000/play/a0fp/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?espn+2" group-title="-",ESPN 2 HD
+http://138.59.227.20:8000/play/a098/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?espn+3" group-title="-",ESPN 3 HD
+http://138.59.227.20:8000/play/a09a/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?espn+4" group-title="-",ESPN 4 HD
+http://138.59.227.20:8000/play/a084/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?espn" group-title="-",ESPN HD
+http://138.59.227.20:8000/play/a099/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?espn+premium" group-title="-",ESPN Premium HD
+http://138.59.227.20:8000/play/a086/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?ewtn" group-title="-",EWTN
+http://138.59.227.20:8000/play/a0g0/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?ewtn" group-title="-",EWTN HD
+http://138.59.227.20:8000/play/a0fv/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?el+canal+de+las+estrellas" group-title="-",El Canal  de las Estrellas
+http://138.59.227.20:8000/play/a07x/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?el+gourmet" group-title="-",El Gourmet
+http://138.59.227.20:8000/play/a07u/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?encuentro" group-title="-",Encuentro
+http://138.59.227.20:8000/play/a05s/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?europa+europa" group-title="-",Europa Europa
+http://138.59.227.20:8000/play/a07t/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?fx" group-title="-",FX HD
+http://138.59.227.20:8000/play/a070/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?farra+play+tv" group-title="-",Farra Play Tv
+http://138.59.227.20:8000/play/a0gj/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?film+arts" group-title="-",Film & Arts HD
+http://138.59.227.20:8000/play/a075/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?fox+sports+2" group-title="-",Fox Sports 2 HD
+http://138.59.227.20:8000/play/a09b/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?fox+sports+3" group-title="-",Fox Sports 3 HD
+http://138.59.227.20:8000/play/a06y/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?fox+sports" group-title="-",Fox Sports HD
+http://138.59.227.20:8000/play/a085/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?foz+de+yguazu" group-title="-",Foz de Yguazu
+http://138.59.227.20:8000/play/a0gv/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?futbol+total" group-title="-",Futbol Total
+http://138.59.227.20:8000/play/a0fs/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?gen" group-title="-",GEN HD
+http://138.59.227.20:8000/play/a0fk/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?gen+hd2" group-title="-",GEN HD2
+http://138.59.227.20:8000/play/a0ej/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?galicia+tv" group-title="-",Galicia TV
+http://138.59.227.20:8000/play/a06v/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?guaira+tv" group-title="-",Guaira Tv
+http://138.59.227.20:8000/play/a0ga/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?hbo" group-title="-",HBO
+http://138.59.227.20:8000/play/a07m/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?hbo+2" group-title="-",HBO 2
+http://138.59.227.20:8000/play/a07o/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?hbo+family" group-title="-",HBO Family
+http://138.59.227.20:8000/play/a07p/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?hbo+mundi" group-title="-",HBO Mundi
+http://138.59.227.20:8000/play/a06f/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?hbo+plus" group-title="-",HBO Plus
+http://138.59.227.20:8000/play/a07n/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?hbo+signature" group-title="-",HBO Signature
+http://138.59.227.20:8000/play/a06h/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?hbo+xtreme" group-title="-",HBO Xtreme
+http://138.59.227.20:8000/play/a06g/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?hgtv" group-title="-",HGTV
+http://138.59.227.20:8000/play/a06o/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?htv" group-title="-",HTV
+http://138.59.227.20:8000/play/a06t/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?history+2" group-title="-",History 2
+http://138.59.227.20:8000/play/a06n/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?history+channel" group-title="-",History Channel
+http://138.59.227.20:8000/play/a090/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?la+nacion+tv" group-title="-",La Nacion TV
+http://138.59.227.20:8000/play/a05y/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?latele+digital" group-title="-",Latele Digital
+http://138.59.227.20:8000/play/a0fi/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?latele" group-title="-",Latele HD
+http://138.59.227.20:8000/play/a0fg/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?latina+tv" group-title="-",Latina Tv
+http://138.59.227.20:8000/play/a0gz/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?lifetime" group-title="-",Lifetime
+http://138.59.227.20:8000/play/a07l/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?mtv" group-title="-",MTV
+http://138.59.227.20:8000/play/a06r/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?maria+vision+tv" group-title="-",Maria Vision Tv
+http://138.59.227.20:8000/play/a0f7/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?mbocayaty+tv" group-title="-",Mbocayaty Tv
+http://138.59.227.20:8000/play/a0gk/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?mega+tv" group-title="-",Mega Tv HD
+http://138.59.227.20:8000/play/a0g8/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?metro" group-title="-",Metro
+http://138.59.227.20:8000/play/a06l/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?monumental+tv+digital" group-title="-",Monumental Tv Digital
+http://138.59.227.20:8000/play/a0fr/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?motor+sur+media" group-title="-",Motor Sur Media
+http://138.59.227.20:8000/play/a0do/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?npy" group-title="-",NPY HD
+http://138.59.227.20:8000/play/a0fm/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?nanduti+tv" group-title="-",Nanduti Tv
+http://138.59.227.20:8000/play/a0eq/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?nat+geo" group-title="-",Nat Geo HD
+http://138.59.227.20:8000/play/a09f/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?natalicio+tv" group-title="-",Natalicio Tv
+http://138.59.227.20:8000/play/a0dh/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?next+tv" group-title="-",Next Tv
+http://138.59.227.20:8000/play/a0dp/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?nick+jr" group-title="-",Nick Jr
+http://138.59.227.20:8000/play/a07s/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?nickelodeon" group-title="-",Nickelodeon
+http://138.59.227.20:8000/play/a08y/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?nuevo+tiempo" group-title="-",Nuevo Tiempo
+http://138.59.227.20:8000/play/a0en/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?obedira+tv" group-title="-",Obedira Tv HD
+http://138.59.227.20:8000/play/a0g2/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?popu+tv" group-title="-",POPU TV HD
+http://138.59.227.20:8000/play/a0fq/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?pro+tv" group-title="-",PRO TV HD
+http://138.59.227.20:8000/play/a0fn/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?pakapaka" group-title="-",Pakapaka
+http://138.59.227.20:8000/play/a05t/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?paraguari+tv" group-title="-",Paraguari Tv
+http://138.59.227.20:8000/play/a0fz/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?paraguay+tv" group-title="-",Paraguay Tv
+http://138.59.227.20:8000/play/a0f8/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?paramount" group-title="-",Paramount HD
+http://138.59.227.20:8000/play/a073/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?paravision" group-title="-",Paravision HD
+http://138.59.227.20:8000/play/a0e4/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?quiero+musica" group-title="-",Quiero Musica
+http://138.59.227.20:8000/play/a06s/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?rai+italia" group-title="-",RAI Italia
+http://138.59.227.20:8000/play/a06u/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?rcc+tv" group-title="-",RCC TV
+http://138.59.227.20:8000/play/a0eu/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?rcc+tv" group-title="-",RCC Tv
+http://138.59.227.20:8000/play/a0gh/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?rpc+digital" group-title="-",RPC Digital
+http://138.59.227.20:8000/play/a0e3/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?rpc" group-title="-",RPC HD
+http://138.59.227.20:8000/play/a0fl/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?rt+en+espaaeol" group-title="-",RT en EspaÃ¦ol
+http://138.59.227.20:8000/play/a07d/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?radio+colmenar+tv" group-title="-",Radio Colmenar Tv
+http://138.59.227.20:8000/play/a0gf/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?red+digital+san+pedro" group-title="-",Red Digital San Pedro
+http://138.59.227.20:8000/play/a0ey/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?red+digital+san+pedro" group-title="-",Red Digital San Pedro
+http://138.59.227.20:8000/play/a0gi/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?republica+tv+vca" group-title="-",Republica Tv Vca
+http://138.59.227.20:8000/play/a0gl/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?rural" group-title="-",Rural
+http://138.59.227.20:8000/play/a06k/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?snt" group-title="-",SNT
+http://138.59.227.20:8000/play/a0e7/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?snt" group-title="-",SNT HD
+http://138.59.227.20:8000/play/a0e2/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?snt+iptv" group-title="-",SNT IPTV
+http://138.59.227.20:8000/play/a0h4/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?san+cristobal+tv" group-title="-",San Cristobal Tv
+http://138.59.227.20:8000/play/a0ex/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?sony" group-title="-",Sony HD
+http://138.59.227.20:8000/play/a09c/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?sony+movies" group-title="-",Sony Movies HD
+http://138.59.227.20:8000/play/a09j/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?space" group-title="-",Space HD
+http://138.59.227.20:8000/play/a071/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?star+channel" group-title="-",Star Channel HD
+http://138.59.227.20:8000/play/a087/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?studio+universal" group-title="-",Studio Universal
+http://138.59.227.20:8000/play/a067/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?suceso+tv" group-title="-",Suceso Tv
+http://138.59.227.20:8000/play/a0gc/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?sur+tv" group-title="-",Sur Tv
+http://138.59.227.20:8000/play/a0e9/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?tcm" group-title="-",TCM
+http://138.59.227.20:8000/play/a065/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?tlnovelas" group-title="-",TLNovelas
+http://138.59.227.20:8000/play/a07y/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?tn" group-title="-",TN HD
+http://138.59.227.20:8000/play/a097/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?tnt" group-title="-",TNT HD
+http://138.59.227.20:8000/play/a08b/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?tnt+novelas" group-title="-",TNT Novelas HD
+http://138.59.227.20:8000/play/a08e/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?tnt+series" group-title="-",TNT Series HD
+http://138.59.227.20:8000/play/a08c/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?tnt+sports" group-title="-",TNT Sports HD
+http://138.59.227.20:8000/play/a06z/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?tv+publica" group-title="-",TV Publica HD
+http://138.59.227.20:8000/play/a095/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?tve" group-title="-",TVE
+http://138.59.227.20:8000/play/a080/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?teleclasica" group-title="-",Teleclasica
+http://138.59.227.20:8000/play/a0gu/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?telefe" group-title="-",Telefe HD
+http://138.59.227.20:8000/play/a08a/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?telefuturo+digital" group-title="-",Telefuturo Digital
+http://138.59.227.20:8000/play/a0fh/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?telefuturo" group-title="-",Telefuturo HD
+http://138.59.227.20:8000/play/a0ff/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?the+history+channel" group-title="-",The History Channel HD
+http://138.59.227.20:8000/play/a09g/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?tv+aire+oviedo" group-title="-",Tv Aire Oviedo
+http://138.59.227.20:8000/play/a0gb/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?tv+aparecida" group-title="-",Tv Aparecida
+http://138.59.227.20:8000/play/a0g5/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?tv+eventos" group-title="-",Tv Eventos HD
+http://138.59.227.20:8000/play/a0g4/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?tv+max+oviedo" group-title="-",Tv Max Oviedo
+http://138.59.227.20:8000/play/a0ew/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?tv+tropical+brasil" group-title="-",Tv Tropical Brasil
+http://138.59.227.20:8000/play/a0h2/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?tyc+sports" group-title="-",TyC Sports HD
+http://138.59.227.20:8000/play/a06x/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?usa+network" group-title="-",USA Network
+http://138.59.227.20:8000/play/a068/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?unicanal" group-title="-",Unicanal
+http://138.59.227.20:8000/play/a0e8/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?unicanal" group-title="-",Unicanal HD
+http://138.59.227.20:8000/play/a0dy/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?union+tv" group-title="-",Union Tv
+http://138.59.227.20:8000/play/a0gm/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?universal" group-title="-",Universal HD
+http://138.59.227.20:8000/play/a09i/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?venus+tv" group-title="-",Venus Tv
+http://138.59.227.20:8000/play/a0fc/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?volver" group-title="-",Volver
+http://138.59.227.20:8000/play/a066/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?warner+channel" group-title="-",Warner Channel HD
+http://138.59.227.20:8000/play/a09d/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?yguazu+tv" group-title="-",Yguazu Tv
+http://138.59.227.20:8000/play/a0ge/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?ciudad+magazine" group-title="-",ciudad magazine
+http://138.59.227.20:8000/play/a06m/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?el+nueve" group-title="-",el nueve HD
+http://138.59.227.20:8000/play/a08k/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/auto_logo.php?el+trece" group-title="-",el trece HD
+http://138.59.227.20:8000/play/a07b/index.m3u8
