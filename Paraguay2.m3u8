@@ -21,15 +21,15 @@ http://138.59.227.20:8000/play/a06m/index.m3u8
 http://138.59.227.20:8000/play/a08k/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cgIv5QK.png" group-title="-",el trece HD
 http://138.59.227.20:8000/play/a07b/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png" group-title="-",A&E HD
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/logo_serve.php?id=9" group-title="-",A&E HD
 http://138.59.227.20:8000/play/a09h/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XWBmjBk.png" group-title="-",A24
 http://138.59.227.20:8000/play/a05u/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OqfBMGy.png" group-title="-",ABC TV
 http://138.59.227.20:8000/play/a0g6/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/AMC_logo_2019.svg" group-title="-",AMC
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/logo_serve.php?id=245" group-title="-",AMC
 http://138.59.227.20:8000/play/a064/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="-",AXN HD
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/logo_serve.php?id=121" group-title="-",AXN HD
 http://138.59.227.20:8000/play/a09e/index.m3u8
 #EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/logo_serve.php?id=8" group-title="-",Adult swim HD
 http://138.59.227.20:8000/play/a08d/index.m3u8
@@ -87,7 +87,7 @@ http://138.59.227.20:8000/play/a06p/index.m3u8
 http://138.59.227.20:8000/play/a074/index.m3u8
 #EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/logo_serve.php?id=154" group-title="-",Discovery Turbo
 http://138.59.227.20:8000/play/a062/index.m3u8
-#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/logo_serve.php?id=30" group-title="-",Disney Channel HD
+#EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/logo_serve.php?id=156" group-title="-",Disney Channel HD
 http://138.59.227.20:8000/play/a06w/index.m3u8
 #EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/logo_serve.php?id=157" group-title="-",Disney Junior
 http://138.59.227.20:8000/play/a08x/index.m3u8
@@ -285,7 +285,7 @@ http://138.59.227.20:8000/play/a06x/index.m3u8
 http://138.59.227.20:8000/play/a068/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Canal_26_logo_%282022%29.svg" group-title="-",26TV
 http://138.59.227.20:8000/play/a05x/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Amsports.png" group-title="-",AM Sports
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjRj2tK8/images-(26).jpg" group-title="-",AM Sports
 http://138.59.227.20:8000/play/a061/index.m3u8
 #EXTINF:-1 tvg-logo="https://m3ukodi.com/site/logos_searchs/logo_serve.php?id=6047" group-title="-",C5N
 http://138.59.227.20:8000/play/a05v/index.m3u8
